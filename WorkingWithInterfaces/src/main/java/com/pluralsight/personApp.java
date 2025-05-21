@@ -21,7 +21,8 @@ public class personApp {
         //sort the list using collections.sort
 
         Collections.sort(myFamily);
-        
+
+        //sorting using a lamda function
        // Collections.sort(myFamily, (a,b)->a.getFirstName().compareTo(b.getFirstName())) ;
 
         //print the sorted list
